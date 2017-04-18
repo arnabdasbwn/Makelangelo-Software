@@ -1,16 +1,6 @@
 ﻿##### Makelangelo #####
-
-http://www.makelangelo.com/
-
-A mural drawing robot and a gentle introduction to 3D printing.
-
-Makelangelo is a polargraph mural drawing robot.  It is intended to teach students 
-about programming, physics, trigonometry, and electronics in a fun, goal-oriented 
-way.  Makelangelo is scalable: our test models have ranged from 30cm^2 to 300cm^2.
-
-This project specifically deals with the GUI: the computer program that makes 
-running the robot friendly and easy.  It pairs really well with Makelangelo-firmware, 
-the code in the brain of the robot that receives instructions and moves the motors.
+ 
+This is the Compiled Makelangelo Software that can be downloaded and directly runned for creating art work from jpg and other image format and u can save them to .dxf format and further can be imported into Inkscape for G-code Generation For Drawing Robot Like Crazy Engineer's Drawing Robot 
 
 ## Show support ##
 
